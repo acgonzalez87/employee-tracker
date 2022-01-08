@@ -15,14 +15,14 @@ VALUES
 ('Accountant', 70000, 2),
 ('HR Manager', 80000, 3),
 ('Paralegal', 60000, 4), 
-('Sales Representative', 40000, 5),
-('Customer Support Representative', 30000, 6);
+('Sales Rep', 40000, 5),
+('Customer Support Rep', 30000, 6);
 
 INSERT INTO employee (first_name, last_name, role_id, manager_id)
 VALUES
 ('Michael', 'Price', 1, NULL),
 ('Josh', 'Hollis', 2, NULL),
-('Jamie, Price', 3, NULL),
+('Jamie', 'Price', 3, NULL),
 ('Andrew', 'Avila', 4, NULL),
 ('Aubrey', 'Mouse', 5, NULL),
-('Justice', 'Mouse', 6, NULL)
+('Justice', 'Mouse', 6, NULL);
