@@ -25,6 +25,8 @@ Run 'npm install' for the dependencies inquirer, console.table, and mysql2. This
 
 This application will allow users to view, add, and edit employees, roles, departments, and managers.
 
+Please click the image below to watch a demo video.
+
 <a href="https://youtu.be/joeb8zOJ3jU" target="_blank"><img src="http://img.youtube.com/vi/jt6U8BBAijI/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
