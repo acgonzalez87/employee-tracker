@@ -32,12 +32,6 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 For more information on how to add screenshots for examples, visit the following website:
 
-[Mark Down Tutorial](https://agea.github.io/tutorial.md/)
-
-    ## [License](#table-of-contents)
-    The application is covered under the following license:
-
-    [Mozilla Public License 2.0](https://choosealicense.com/licenses/Mozilla Public License 2.0)
 
 ## [Contributing](#table-of-contents)
 
